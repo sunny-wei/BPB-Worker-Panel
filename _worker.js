@@ -4328,7 +4328,7 @@ var worker_default = {
               }
             });
           default:
-            url.hostname = "lujiaorj.com";
+            url.hostname = "tesa.openand.xyz";
             url.protocol = "https:";
             request = new Request(url, request);
             return await fetch(request);
